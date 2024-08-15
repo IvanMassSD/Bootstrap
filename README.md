@@ -76,8 +76,10 @@ Añadir el siguiente código dentro de la etiqueta `<head></head>` en HTML
 #### Tamaños
 - Agregar un margin y padding a cada elemento creado anteriormente
 
-#### Botones
+# Botones
 
 https://getbootstrap.com/docs/5.3/components/buttons/#base-class
+
+<button type="button" class="btn btn-primary">Primary</button>
 
 #### Subir el archivo `index.html` a este repositorio como entrega. 
