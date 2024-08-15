@@ -52,6 +52,12 @@ Añadir el siguiente código dentro de la etiqueta `<head></head>` en HTML
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*W9hvAiC13JR-vbayMc724w.png)
 
+### Botones
+
+[https://getbootstrap.com/docs/5.3/components/buttons/#base-class](https://getbootstrap.com/docs/5.3/components/buttons/#base-class)
+
+![](https://i.ytimg.com/vi/nN_j9FLPCUk/maxresdefault.jpg)
+
 # Tarea 
 ### Mediante Bootstrap realizar los siguientes diseños:
 #### Instalar Bootstrap
@@ -76,10 +82,4 @@ Añadir el siguiente código dentro de la etiqueta `<head></head>` en HTML
 #### Tamaños
 - Agregar un margin y padding a cada elemento creado anteriormente
 
-# Botones
-
-https://getbootstrap.com/docs/5.3/components/buttons/#base-class
-
-<button type="button" class="btn btn-primary">Primary</button>
-
-#### Subir el archivo `index.html` a este repositorio como entrega. 
+#### Subir el archivo `index.html` a este repositorio como entrega mediate un Fork
